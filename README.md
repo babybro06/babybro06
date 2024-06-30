@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Pandey</h1>
-<h3 align="center">I am a Student living in Munich, Germany. I am School President, and Captain of the First Lego League Team GO Robot. I am interested in Data Science and Data Analytics. I am working to pursue this in the corporate world. In my free time I like to develop many different types of programms, which is reflected onto the setup of my Repositories. </h3>
+<h3 align="center">I am a Student living in Munich, Germany. I work as Werk student at Check 24 AI Forge in the position Data Scientist. I am School President, and Captain of the First Lego League Team GO Robot. I am interested in Data Science and Data Analytics. I am working to pursue this in the corporate world. In my free time I like to develop many different types of programms, which is reflected onto the setup of my Repositories. </h3>
 
 - 🔭 I’m currently part of [the first Lego League Team GO Robot](https://gymnasium-ottobrunn.de/schulleben/go-robot/)
 
